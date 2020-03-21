@@ -43,4 +43,4 @@ heroku run python manage.py createsuperuser
 ```
 then enter the infos of the user
 
-and you're done, you can visit the app at <my-heroku-app>.herokuapp.com or simply by typing ```  heroku open ``` in your terminal. :D
+and you're done, you can visit the app at < my-heroku-app >.herokuapp.com or simply by typing ```  heroku open ``` in your terminal. :D
